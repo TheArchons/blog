@@ -117,11 +117,7 @@ theme = "awesome"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+url = "https://github.com/TheArchons"
 
 [[params.socialIcons]]
 name = "Rss"
