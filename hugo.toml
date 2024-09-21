@@ -1,5 +1,5 @@
-title = "Awesome Hugo blog"
-baseURL = 'https://hba.sid.one/'
+title = "thearchons' blog"
+baseURL = 'https://blog.thearchons.xyz'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -101,7 +101,6 @@ theme = "awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "thearchons's blog"
   name = "thearchons"
-  description = "thearchons's blog"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
