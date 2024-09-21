@@ -99,9 +99,9 @@ theme = "awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Alex's blog"
-  name = "Alex"
-  description = "Alex's blog"
+  intro = "thearchons's blog"
+  name = "thearchons"
+  description = "thearchons's blog"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
