@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on thearchons&#39; blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://blog.thearchons.xyz/posts/</link>
     <description>Recent content in Posts on thearchons&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 20 Sep 2024 17:56:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Sep 2024 17:56:36 -0700</lastBuildDate><atom:link href="https://blog.thearchons.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I replaced my expensive laptop with an old T480</title>
-      <link>http://localhost:1313/posts/t480/</link>
+      <link>https://blog.thearchons.xyz/posts/t480/</link>
       <pubDate>Fri, 20 Sep 2024 17:56:36 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/t480/</guid>
+      <guid>https://blog.thearchons.xyz/posts/t480/</guid>
       
-      <description>I once owned a sleek, modern, aluminum laptop. It was incredibly thin and light, had a beautiful high-resolution touchscreen, and ran faster than many gaming laptops. Then, in 2024, I sold it, and bought a 6 year old Thinkpad T480 for less than $200. No, I was not short on cash or anything. Instead, I genuinely believe that the T480 is a better laptop than the one I had.</description>
+      <description>I once owned a $1000 laptop. It was fully aluminum, modern, and sleek. The laptop was thin, the bezels were thin, the performance was phenomenal, and the UHD 90hz touchscreen was a pleasure to use. In 2024, I sold it and bought a 6 year old Thinkpad T480 for less than $200. No, I was not short on cash or anything. Instead, I genuinely believe that the T480 is a better laptop than the one I had before.</description>
       
     </item>
     
