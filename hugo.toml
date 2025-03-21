@@ -111,4 +111,4 @@ url = "https://github.com/TheArchons"
 name = "Rss"
 url = "/index.xml"
 
-
+publishDir = "/mnt/2nas/home/archons/blog/public/"
