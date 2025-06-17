@@ -108,6 +108,10 @@ name = "github"
 url = "https://github.com/TheArchons"
 
 [[params.socialIcons]]
+name = "email"
+url = "mailto:archons@thearchons.xyz"
+
+[[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
 
