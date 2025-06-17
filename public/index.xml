@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thearchons&#39; blog</title>
+    <link>https://blog.thearchons.xyz/</link>
+    <description>Recent content on thearchons&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 06 Jun 2025 13:05:27 -0700</lastBuildDate><atom:link href="https://blog.thearchons.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capstone</title>
+      <link>https://blog.thearchons.xyz/posts/capstone/</link>
+      <pubDate>Fri, 06 Jun 2025 13:05:27 -0700</pubDate>
+      
+      <guid>https://blog.thearchons.xyz/posts/capstone/</guid>
+      
+      <description>Wishes &amp;amp; Goals I wish to become a software developer (88% match on myblueprint), which I believe is my ikigai. I know that this field is one of my strengths, and I am also extremely passionate about it. I am currently working towards that goal by taking computer science courses and participating in coding competitions. I also want to make a positive impact on the world through my work, and I hope to do this by creating software that helps people in their daily lives.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://blog.thearchons.xyz/posts/hello/</link>
+      <pubDate>Thu, 20 Mar 2025 20:35:27 -0700</pubDate>
+      
+      <guid>https://blog.thearchons.xyz/posts/hello/</guid>
+      
+      <description>Hello and welcome to my new blog! Technically I have a post before this from six months ago, but this marks my first real post since my last one was a one-off thing. This time, I hope to be writing a lot more consistently on my blog. I&amp;rsquo;ll write about a broad range of things, but probably mainly on technology. Hopefully in a few years when I look back, I will be able to look at my progress and recognize my progress since then.</description>
+      
+    </item>
+    
+    <item>
+      <title>Why I replaced my expensive laptop with an old T480</title>
+      <link>https://blog.thearchons.xyz/posts/t480/</link>
+      <pubDate>Fri, 20 Sep 2024 17:56:36 -0700</pubDate>
+      
+      <guid>https://blog.thearchons.xyz/posts/t480/</guid>
+      
+      <description>I once owned a $1000 laptop. It was fully aluminum, modern, and sleek. The laptop was thin, the bezels were thin, the performance was phenomenal, and the UHD 90hz touchscreen was a pleasure to use. In 2024, I sold it and bought a 6 year old Thinkpad T480 for less than $200. No, I was not short on cash or anything. Instead, I genuinely believe that the T480 is a better laptop than the one I had before.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
